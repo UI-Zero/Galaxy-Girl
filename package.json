@@ -1,0 +1,24 @@
+{
+  "name": "zero",
+  "version": "1.0.0",
+  "description": "A discord bot for Zero's discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zero",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.6.6",
+    "fortnite": "^4.3.2",
+    "google": "^2.1.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "os": "^0.1.1",
+    "snekfetch": "^4.0.4",
+    "superagent": "^4.1.0"
+  }
+}
