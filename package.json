@@ -9,6 +9,7 @@
   "author": "Zero",
   "license": "ISC",
   "dependencies": {
+    "canvas": "^2.5.0",
     "cpu-stat": "^2.0.1",
     "discord.js": "^11.4.2",
     "enmap": "^4.6.6",
